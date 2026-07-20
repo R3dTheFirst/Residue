@@ -61,3 +61,24 @@ a JSON diff you can inspect, script against, or feed into the
 *(installation instructions once there's a build to install)*
 
 ## Usage
+*(expand with real examples once the CLI exists)*
+
+## Architecture
+
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the engine/GUI split and
+per-subsystem implementation notes.
+
+## Contributing
+
+Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for
+dev environment setup, testing, and how to submit changes. Issues
+labeled `good first issue` are a good place to start.
+
+## Credits
+
+Built by [your name / GitHub handle]. *(add contributors here as they
+join — see CONTRIBUTING.md recognition section)*
+
+## License
+
+Residue is licensed under the [GNU General Public License v3.0](LICENSE).
