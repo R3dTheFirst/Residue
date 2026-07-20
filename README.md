@@ -1,4 +1,16 @@
+<div align="center">
+
 # Residue
+
+![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
+![Status](https://img.shields.io/badge/status-early--development-orange.svg)
+![Rust](https://img.shields.io/badge/built%20with-Rust-orange.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/R3dTheFirst/Residue)
+![GitHub issues](https://img.shields.io/github/issues/R3dTheFirst/Residue)
+![GitHub contributors](https://img.shields.io/github/contributors/R3dTheFirst/Residue)
+
+</div>
 
 A real-time Windows install monitor that tracks filesystem, registry,
 and firewall changes as an application installs, attributing each
