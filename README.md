@@ -88,8 +88,7 @@ labeled `good first issue` are a good place to start.
 
 ## Credits
 
-Built by [your name / GitHub handle]. *(add contributors here as they
-join — see CONTRIBUTING.md recognition section)*
+Built by R3dTheFirst
 
 ## License
 
