@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Residue — starting process monitor...");
+    engine::start_process_monitor();
 }

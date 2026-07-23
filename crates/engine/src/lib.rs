@@ -12,3 +12,6 @@ mod tests {
         assert_eq!(result, 4);
     }
 }
+
+mod etw;
+pub use etw::process::start_process_monitor;
